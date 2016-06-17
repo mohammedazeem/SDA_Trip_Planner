@@ -1,0 +1,960 @@
+{
+	"data":
+	[
+		{
+			"address": "Brindavan Mahal , door no .727, 8 th cross , 28 th ward , M J nagar , hospete, M J nagar",
+			"locality": "M J nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Nehru colony 1st cross near ram anand residency, Hospet Co-operative Colony",
+			"locality": "Hospet Co-operative Colony",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Lokesh 29th ward 6th cross m j nagar , Hospet Co-operative Colony",
+			"locality": "Hospet Co-operative Colony",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Lokesh 29th ward 6th cross m j nagar , Hospet Co-operative Colony",
+			"locality": "Hospet Co-operative Colony",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Annapurna badavane near chitwadgi hospet, Hospet Ranipet",
+			"locality": "Hospet Ranipet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "First floor, No 781,15th ward,raghavendra colony, amaravathi, near surabhi kalaya mantap, hosapate. 
+, amaravathi ",
+			"locality": "amaravathi ",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Guruprasad c/o oli guru. Lingappa shri Venkateshwara nilaya 8th main Cross near Mother Teresa School MJ nagar hospete, Hospet N C C",
+			"locality": "Hospet N C C",
+			"city": "Bellary",
+			"zipcode": "583203",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Srinivasa nilaya,31st ward, nehru colony
+Behind firestation hospet, Hospet",
+			"locality": "Hospet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Near ganesh temple,  M P Prakash nagar,  hosapete, Ananthashayanagudi",
+			"locality": "Ananthashayanagudi",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Nehru colony 1st cross near ram anand residency, Hospet Co-operative Colony",
+			"locality": "Hospet Co-operative Colony",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Lokesh 29th ward 6th cross m j nagar , Hospet Co-operative Colony",
+			"locality": "Hospet Co-operative Colony",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Sri venkata nilaya.
+H.no 1225/1/22
+2nd cross,j.p.nagar,near by patel high school,hospet-583201.
+, Hospet J P Nagar",
+			"locality": "Hospet J P Nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "34th ward Devanga pet near aniger masizda Hospet-tq bellary-dist 583201, Hospet",
+			"locality": "Hospet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Pankaj Kumar Singh, A/1,HSL colony, Hospet Steel Limited, Hospet Road, Gingera,Hospet.karnataka, hospet ",
+			"locality": "hospet ",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Railway station road forrest office opp krishna enclave bldg hospet, Hospet",
+			"locality": "Hospet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Jali lane main market, Hospet H.O",
+			"locality": "Hospet H.O",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Pankaj Kumar Singh, A/1,HSL colony, Hospet Steel Limited, Hospet Road, Gingera,Hospet.karnataka, hospet ",
+			"locality": "hospet ",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "#340 C/o shivappa s/o papayya behind cng building s r nagar hospet, hospet sr nagar",
+			"locality": "hospet sr nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "#340 C/o shivappa s/o papayya behind cng building s r nagar hospet, hospet sr nagar",
+			"locality": "hospet sr nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Near Phool Bun High School,Jambunath Road,Rehmath Nagar,Hospet, Hospet J P Nagar",
+			"locality": "Hospet J P Nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Hospet steel Ltd village ginigera, Hospet Ranipet",
+			"locality": "Hospet Ranipet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Krk lodge beside krk residency
+Station road hospet , Hospet Patel Nagar",
+			"locality": "Hospet Patel Nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Krk lodge beside krk residency
+Station road hospet , Hospet Patel Nagar",
+			"locality": "Hospet Patel Nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "N.c.colony 
+1st cross
+Anand. Nilaya
+Hospet, Hospet H.O",
+			"locality": "Hospet H.O",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "N.c.colony 
+1st cross
+Anand. Nilaya
+Hospet, Hospet H.O",
+			"locality": "Hospet H.O",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "D.no.14 
+Nishani camp
+T.b.dam ,hospet
+Karnataka, Hospet",
+			"locality": "Hospet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "J.N Road hotel malligi, hospet, hospet",
+			"locality": "hospet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Kiran kamala nivas. 9th ward mp prakash nagar door # 1354 hospet. Karnataka , hospet mp prakash nagar",
+			"locality": "hospet mp prakash nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Santhosh s/o bharamappa B Neharu colony Valla compound Hospet (t)  Bellary(d), Hospet ",
+			"locality": "Hospet ",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Santhosh s/o bharamappa B Neharu colony Valla compound Hospet (t)  Bellary(d), Hospet ",
+			"locality": "Hospet ",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Rekha w/o Ramesh babu  qtr no ,2F/4A, HPC, kamalapur,hospet ,, Kamalapur",
+			"locality": "Kamalapur",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Raghavendra Ayodhi 
+Hdfc bank ltd khan building college road HOSPET , Hospet Ranipet",
+			"locality": "Hospet Ranipet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Near Phool Bun High School,Jambunath Road,Rehmath Nagar,Hospet, Hospet J P Nagar",
+			"locality": "Hospet J P Nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "KRK FRUITS BESIDE KRK RESIDENCY STATION ROAD HOSPET , Hospet Patel Nagar",
+			"locality": "Hospet Patel Nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "KRK FRUITS BESIDE KRK RESIDENCY STATION ROAD HOSPET , Hospet Patel Nagar",
+			"locality": "Hospet Patel Nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "First floor, No 781,15th ward,raghavendra colony, amaravathi, near surabhi kalaya mantap, hosapate. 
+, amaravathi ",
+			"locality": "amaravathi ",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "J.N Road hotel malligi, hospet, hospet",
+			"locality": "hospet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Shree nivasa nilaya near masjid  jambunatha road mehaboob nagar  Hosapete, Hospet J P Nagar",
+			"locality": "Hospet J P Nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Peter england showroom college road, Hospet H.O",
+			"locality": "Hospet H.O",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "Nehru colony 2nd cross, Hospet",
+			"locality": "Hospet",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "#340 C/o shivappa s/o papayya behind cng building s r nagar hospet, hospet sr nagar",
+			"locality": "hospet sr nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "#340 C/o shivappa s/o papayya behind cng building s r nagar hospet, hospet sr nagar",
+			"locality": "hospet sr nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "residence of assistant commissioner/SDM, sandur road,hospet,bellary district-583201, Residence of assistant commissioner SDM sandur road",
+			"locality": "Residence of assistant commissioner SDM sandur road",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "#340 C/o shivappa s/o papayya behind cng building s r nagar hospet, hospet sr nagar",
+			"locality": "hospet sr nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "#340 C/o shivappa s/o papayya behind cng building s r nagar hospet, hospet sr nagar",
+			"locality": "hospet sr nagar",
+			"city": "Bellary",
+			"zipcode": "583201",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 4331
+		},
+		{
+			"address": "B manjunath mnm school road jayanagar, Gangavathi",
+			"locality": "Gangavathi",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "Edga colony jayanagar road gangavathi, Gangavathi ARS",
+			"locality": "Gangavathi ARS",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "Edga colony jayanagar road gangavathi, Gangavathi ARS",
+			"locality": "Gangavathi ARS",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "INDIAN MILL STORES . SHIVE TALKIES ROAD CBS GUNJ .GANGAVATHI, Gangavathi ARS",
+			"locality": "Gangavathi ARS",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "M.I.RICE CENTRE .JAY NAGAR ROAD GANGVATHI, Gangavathi ARS",
+			"locality": "Gangavathi ARS",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "UMA MAHESHWAR KRUPA
+virupapaur nagar Anegundi road
+Gangavathi, gangavathi",
+			"locality": "gangavathi",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": " STATE BANK OF INDIA
+OPP  SAI BABA RICE MILL
+R G ROAD, GANGAVATHI-583227
+, Gangavathi",
+			"locality": "Gangavathi",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": " STATE BANK OF INDIA
+OPP  SAI BABA RICE MILL
+R G ROAD, GANGAVATHI-583227
+, Gangavathi",
+			"locality": "Gangavathi",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "V NARAYAN CHOWDARY 
+Ayodhya post 
+Gangavathi t
+Koppal d 
+Karnataka  , Gangavathi ",
+			"locality": "Gangavathi ",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "Gadwal camp , mehaboob nagar ...gangavathi, gangavathi",
+			"locality": "gangavathi",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "Gadwal camp , mehaboob nagar ...gangavathi, gangavathi",
+			"locality": "gangavathi",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "Near jamia masjid Islampur 12th ward Gangavathi., Gangavathi",
+			"locality": "Gangavathi",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "JAYANAGAR 1ST CROSS 9TH MAIN
+BESIDE GANGEDESHWAR TEMPLE, Gangavathi ARS",
+			"locality": "Gangavathi ARS",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "Gadwal camp , mehaboob nagar ...gangavathi, gangavathi",
+			"locality": "gangavathi",
+			"city": "Koppal",
+			"zipcode": "583227",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10102
+		},
+		{
+			"address": "O-1/14,V.V.Nagar JSW Township,Toranagallu, Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Pravesh Lodge
+Room No 126
+Near JSW Old gate
+Behind petrol pump
+Toranagallu
+Bellary, Bellary",
+			"locality": "Bellary",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "O-1/14,V.V.Nagar JSW Township,Toranagallu, Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "M1/7, Vidyanagar, JSW Steel Township, Toranagallu, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "R.no.T5/5 vidhyanagar, TORANGALLU",
+			"locality": "TORANGALLU",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "R.no.T5/5 vidhyanagar, TORANGALLU",
+			"locality": "TORANGALLU",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "D3/15, vidyanagar township, toranagallu",
+			"locality": "toranagallu",
+			"city": "bellary",
+			"zipcode": "583275",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Shankar hill town g3/10 toranagallu, ballari, Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Shankar hill town g3/10 toranagallu, ballari, Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "old gate vv nagar jsw steel, vv nagar ",
+			"locality": "vv nagar ",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Room No D1/4
+V V Nagar township
+JSW Steel Ltd
+Thoranagallu post
+Sanduru Taluk Bellary, Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Room no-D5/6 vv nagar jsw township,toranagallu., Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Room no-D5/6 vv nagar jsw township,toranagallu., Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Room no-D4/12 Vv Nagar jsw township Toranagallu, Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Room no-D4/12 Vv Nagar jsw township Toranagallu, Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "D1/8 v.v nagar , Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "G1-312,Vidyanagar township,Opposite Kaladham,Village-Toranagallu,Distt-Bellary, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "G1-312,Vidyanagar township,Opposite Kaladham,Village-Toranagallu,Distt-Bellary, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "G1-312,Vidyanagar township,Opposite Kaladham,Village-Toranagallu,Distt-Bellary, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "#305 G1 Block Girls Hostel 
+Vidyanagar Township , Bellary",
+			"locality": "Bellary",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "#305 G1 Block Girls Hostel 
+Vidyanagar Township , Bellary",
+			"locality": "Bellary",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Flat No.F3.old residency .near eon building Vidyanagar Township, JSW Steel , Vill. Toranagallu, Bellary, Karnataka, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Room no A-214, Vidyanagar Township, JSW Steel Ltd., Toranagallu, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Old residency A Block room no- 210 vidyanagar township, Vidyanagar toranagallu",
+			"locality": "Vidyanagar toranagallu",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Shop no. 2 , Shopping Complex, Vidyanagar  JSW Township , , Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Jsw township, vidyanagar, tornagallu, blry dist, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Jsw township, vidyanagar, tornagallu, blry dist, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "BLOCK T2/10,VIDYANAGAR TOWNSHIP
+JSW STEEL LTD.
+TORANAGALLU,BELLARY
+KARNATAKA, BELLARY",
+			"locality": "BELLARY",
+			"city": "Bellary",
+			"zipcode": "583123",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "T10/17, Vidyanagar township, Toranagallu, Bellary, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "R.no.T5/5 vidhyanagar, TORANGALLU",
+			"locality": "TORANGALLU",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "R.no.T5/5 vidhyanagar, TORANGALLU",
+			"locality": "TORANGALLU",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "JSW STEEL LTD,VIDYANAGAR,QTR NO-T3/15,P.O-VIDYANAGAR, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  (Bellary)",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KA",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "House No. S-8/5, Vidyanagar Township, JSW Steel Ltd., Toranagallu, Taluk - Sandur, Dist. - Bellary, Vidyanagar  (Bellary)",
+			"locality": "Vidyanagar  &#x28;Bellary&#x29;",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "S 5/7 vidyanagar township, Toranagallu",
+			"locality": "Toranagallu",
+			"city": "Bellary",
+			"zipcode": "583275",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 1966
+		},
+		{
+			"address": "Near. ITI college. Krishna nagar 3rd cross siraguppa , Siraguppa ",
+			"locality": "Siraguppa ",
+			"city": "Bellary",
+			"zipcode": "583121",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10108
+		},
+		{
+			"address": "1382b, beside vishwajyoti montessori school , vidyanagar, siruguppa, Siruguppa",
+			"locality": "Siruguppa",
+			"city": "Bellary",
+			"zipcode": "583121",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10108
+		},
+		{
+			"address": "Krishna rao a housing board colony siruguppa bellary road, Siruguppa",
+			"locality": "Siruguppa",
+			"city": "Bellary",
+			"zipcode": "583121",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10108
+		},
+		{
+			"address": "Pompapathi.k ses convent school line ppolice quatraes siruguppa 583121, Siruguppa",
+			"locality": "Siruguppa",
+			"city": "Bellary",
+			"zipcode": "583121",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 10108
+		},
+		{
+			"address": "Shri jagadguru gavisidheshwar ayurvedic medical college,gavimath,new girls hostel,room no.1, Koppal Bazar",
+			"locality": "Koppal Bazar",
+			"city": "Koppal",
+			"zipcode": "583231",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 9204
+		},
+		{
+			"address": "Mahadevi orthopedic centre near tower clock  gavimath road Koppal-583231, Towerclock",
+			"locality": "Towerclock",
+			"city": "Koppal",
+			"zipcode": "583231",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 9204
+		},
+		{
+			"address": "Kittur Chennamma Circle ,
+KOPPAL , Koppal Bazar",
+			"locality": "Koppal Bazar",
+			"city": "Koppal",
+			"zipcode": "583231",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 9204
+		},
+		{
+			"address": "Shri devi nilaya subramanya colony ojnahalli road near water tank bhagyanagar koppal , Koppal Bazar",
+			"locality": "Koppal Bazar",
+			"city": "Koppal",
+			"zipcode": "583231",
+			"state": "KAR",
+			"country": "India",
+			"delivery_staff_id": 9204
+		}
+	]
+}
