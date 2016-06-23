@@ -137,26 +137,25 @@ public class AddressToGeoLocation {
 		return diff;
 	}
 
-	ArrayList< LatLong > processAddresses ( ArrayList< Address > addressList ) {
+	ArrayList< LatLong > processAddresses ( ArrayList< Address > addressList, ArrayList< Address > unresolvedAddresses ) {
 		ArrayList< LatLong > latlongList = new ArrayList< LatLong >();
 		ArrayList< Integer > badAddresses = new ArrayList< Integer >();
 		int i = 0;
 		for (Address address: addressList) {
 			isLatLong = true;
 			LatLong temp = getBestLatLong(address);
+			address.setLatitude( temp.getLatitude() );
+			address.setLongitude( temp.getLongitude() );
 			if (!temp.isZero() && isLatLong)
 				latlongList.add( temp );
-			else
+			else {
 				badAddresses.add(i);
+				unresolvedAddresses.add(address);
+			}
 			i += 1;
 		}
 		Collections.sort(badAddresses, Collections.reverseOrder());
-		System.out.println("");
-		for (int index: badAddresses)
-			System.out.print(index);
-		System.out.println("");
 		for(int index: badAddresses) {
-			addressList.get(index).print();
 			addressList.remove(index);
 		}
 		return latlongList;
