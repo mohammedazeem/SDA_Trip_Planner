@@ -148,4 +148,12 @@ public class Address implements Serializable {
 		builder.append("]");
 		return builder.toString();
 	}
+
+	public void print() {
+		System.out.println("** Address **");
+		System.out.println("Street Address: " + streetAddress);
+		System.out.println("Locality: " + locality);
+		System.out.println("City: " + city);
+		System.out.println("Pincode: " + pincode);
+	}
 }

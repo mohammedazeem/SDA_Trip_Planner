@@ -24,7 +24,7 @@ public class AddressToGeoLocation {
 	}
 
 	private LatLong getLatLong (String fullAddress) {
-		//		System.out.println(fullAddress);
+		System.out.println(fullAddress);
 		if ( requestCount > 0 && (requestCount % 10) == 0 ) {
 			try {
 				Thread.sleep(2000);                 //1000 milliseconds is one second.
@@ -44,7 +44,7 @@ public class AddressToGeoLocation {
 			e.printStackTrace();
 			return result;
 		}
-		//		System.out.println(result.toString());
+		System.out.println(result.toString());
 		System.out.println("Requested count: " + requestCount);
 		return result;
 	}
@@ -61,16 +61,17 @@ public class AddressToGeoLocation {
 				LatLong temp = getLatLong(add + " " + localityAddress);
 				if (temp.isZero())
 					continue;
-				if( difference(localityLatLong, temp) != 0)
+				if( difference(localityLatLong, temp) )
 					return temp;
 			}
 		}
 		else {
 			address = removeUnwantedCharacters(address);
+			address = removeRepeatedWords(address);
 			String tempStr = address.getStreetAddress();
 			do{
 				LatLong temp = getLatLong(tempStr + " " + localityAddress);
-				if (!temp.isZero() && difference(localityLatLong, temp) != 0)
+				if (!temp.isZero() && difference(localityLatLong, temp) )
 					return temp;
 				try {
 					tempStr = tempStr.split(",", 2)[1];
@@ -79,6 +80,7 @@ public class AddressToGeoLocation {
 				}
 			} while(tempStr != null && tempStr.contains(","));
 
+			address = removeUnwantedCharacters(address);
 			address = removeRepeatedWords(address);
 			String[] splitStr = address.getStreetAddress().split(",");
 			String landmark = "", street = "";
@@ -100,13 +102,17 @@ public class AddressToGeoLocation {
 			}
 			if (!street.isEmpty()) {
 				LatLong temp = getLatLong(street + localityAddress);
-				if (!temp.isZero() && difference(localityLatLong, temp) != 0)
+				if (!temp.isZero() && difference(localityLatLong, temp) ) {
+					System.out.println("#########shout##########");
 					return temp;
+				}
 			}
 			if(!landmark.isEmpty()) {
 				LatLong temp = getLatLong(landmark + ", " + localityAddress);
-				if (!temp.isZero() && difference(localityLatLong, temp) != 0)
+				if (!temp.isZero() && difference(localityLatLong, temp) ){
+					System.out.println("#########shout##########");
 					return temp;
+				}
 			}
 			System.out.println("");
 			System.out.println("/********************************/");
@@ -130,11 +136,14 @@ public class AddressToGeoLocation {
 		return localityAddress;
 	}
 
-	private double difference(LatLong x, LatLong y) {
+	private boolean difference(LatLong x, LatLong y) {
 		double diff = 0;
 		diff += Math.abs(x.getLatitude() - y.getLatitude());
 		diff += Math.abs(x.getLongitude() - y.getLongitude());
-		return diff;
+		if (diff > 0 && diff < 0.05)
+			return true;
+		else
+			return false;
 	}
 
 	ArrayList< LatLong > processAddresses ( ArrayList< Address > addressList, ArrayList< Address > unresolvedAddresses ) {
@@ -143,6 +152,7 @@ public class AddressToGeoLocation {
 		int i = 0;
 		for (Address address: addressList) {
 			isLatLong = true;
+			address.print();
 			LatLong temp = getBestLatLong(address);
 			address.setLatitude( temp.getLatitude() );
 			address.setLongitude( temp.getLongitude() );

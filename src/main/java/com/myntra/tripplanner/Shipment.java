@@ -114,4 +114,12 @@ public class Shipment implements Serializable{
 		return builder.toString();
 	}
 
+	public void print() {
+		System.out.println("** Shipment **");
+		System.out.println("Street Address: " + address);
+		System.out.println("Locality: " + locality);
+		System.out.println("City: " + city);
+		System.out.println("Pincode: " + pincode);
+	}
+
 }

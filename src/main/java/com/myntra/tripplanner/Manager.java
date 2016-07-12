@@ -85,36 +85,36 @@ public class Manager {
 		gatherData( deliveryCenterId );
 		System.out.println("gathered " + addressList.size() + " shipment records");
 		computeGeoLocations();
-		Dataset data = new DefaultDataset();
-		int i = 0;
-		for (LatLong loc : geoLocationList) {
-			double[] coord = new double[2];
-			coord[0] = loc.getLatitude();
-			coord[1] = loc.getLongitude();
-			Instance instance = new DenseInstance(coord, i );
-			data.add(instance);
-			i += 1;
-		}
-		storeData(data);
-		//		Dataset data = restoreData();
-		System.out.println("Data set prepared with " + data.size() + " instances and " + noOfStaffsAvailable + " clusters");
-		Dataset[] clusters = new Cluster().getClusters(noOfStaffsAvailable, data);
-		for (int j = 0; j < clusters.length; j++){
-			Dataset cluster = clusters[j];
-			for (Instance instance : cluster) {
-				int index = (int) instance.classValue();
-				Address address = addressList.get(index);
-				address.setCluster("SDA" + j);
-			}
-		}
-		for (Address address : unresolvedAddresses)
-			address.setCluster("Not assigned");
-		addressList.addAll(unresolvedAddresses);
-
-		for (Address address : addressList)
-			System.out.println(address.toString());
-		//		writeToFile(clusters);
-		DAO.writeTripClusters(addressList);
+//		Dataset data = new DefaultDataset();
+//		int i = 0;
+//		for (LatLong loc : geoLocationList) {
+//			double[] coord = new double[2];
+//			coord[0] = loc.getLatitude();
+//			coord[1] = loc.getLongitude();
+//			Instance instance = new DenseInstance(coord, i );
+//			data.add(instance);
+//			i += 1;
+//		}
+//		storeData(data);
+//		//		Dataset data = restoreData();
+//		System.out.println("Data set prepared with " + data.size() + " instances and " + noOfStaffsAvailable + " clusters");
+//		Dataset[] clusters = new Cluster().getClusters(2, data);
+//		for (int j = 0; j < clusters.length; j++){
+//			Dataset cluster = clusters[j];
+//			for (Instance instance : cluster) {
+//				int index = (int) instance.classValue();
+//				Address address = addressList.get(index);
+//				address.setCluster("SDA" + j);
+//			}
+//		}
+//		for (Address address : unresolvedAddresses)
+//			address.setCluster("Not assigned");
+//		addressList.addAll(unresolvedAddresses);
+//
+//		for (Address address : addressList)
+//			System.out.println(address.toString());
+//		//		writeToFile(clusters);
+//		DAO.writeTripClusters(addressList);
 	}
 
 	private void storeData(Dataset data) {
@@ -188,7 +188,7 @@ public class Manager {
 	public static void main(String[] args) {
 		Manager manager = new Manager();
 		manager.initialize();
-		manager.formClusters( 72 );
+		manager.formClusters( 15 );
 		manager.dispose();
 	}
 

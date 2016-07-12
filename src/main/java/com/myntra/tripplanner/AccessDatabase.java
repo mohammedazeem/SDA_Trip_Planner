@@ -53,7 +53,7 @@ public class AccessDatabase {
 			Query query = session.createQuery("FROM Shipment where deliveryCenterID = :dcid and shipmentType = :type and shipmentStatus = :status");
 			query.setParameter("dcid", deliveryCenterId);
 			query.setParameter("type", "DL");
-			query.setParameter("status", "RECEIVED_IN_DC");
+			query.setParameter("status", "UNASSIGNED");
 			shipments = query.list();
 			tx.commit();
 		}catch (HibernateException e) {
